@@ -1,3 +1,4 @@
 name: Transitioning From Fed to Academic
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minima
