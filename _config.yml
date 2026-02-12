@@ -8,11 +8,11 @@ description: > # this means to ignore newlines until "author:" (next entry)
   to a smaller university where more general library skills are needed.
 
 author: Rob Guzman (Starshadow)
-email: hidden
+email: robert.guzman.librarian+blog@gmail.com
 
 # social links (in order)
-bluesky_username:  starshadow.info
-github_username:  antistarshadow
+bluesky_username: starshadow.info
+github_username: antistarshadow
 rss: rss
 # twitter_username: jekyllrb
 # dribbble_username: jekyll
