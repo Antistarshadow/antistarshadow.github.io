@@ -11,7 +11,7 @@ layout: feed
 	<id>http://antistarshadow.github.io/blog</id>
 	<author>
 		<name>Rob Guzman (Starshadow)</name>
-		# <email>antistarshadow@gmail.com</email>
+		<email>{%- include email.html -%}</email>
 	</author>
 
 	{% for post in site.posts %}
